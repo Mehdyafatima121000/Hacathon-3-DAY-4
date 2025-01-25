@@ -1,8 +1,8 @@
 "use client";
 
-import Footer from "@/app/components/Footer";
-import Header from "@/app/components/Header";
-import TextData from "@/app/components/TextData";
+import Footer from "../../components/Footer";
+import Header from "../../components/Header";
+import TextData from "../../components/TextData";
 import Image from "next/image";
 import React from "react";
 

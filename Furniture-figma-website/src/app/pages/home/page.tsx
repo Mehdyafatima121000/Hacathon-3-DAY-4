@@ -1,12 +1,12 @@
-import Header from "@/app/components/Header";
-import HeroSection from "@/app/components/HeroSection";
+import Header from "../../components/Header";
+import HeroSection from "../../components/HeroSection";
 import React from "react";
-import Section from "@/app/components/Section";
-import TopProducts from "@/app/components/TopProducts";
-import Banner from "@/app/components/Banner";
-import Blogs from "@/app/components/Blogs";
-import Banner2 from "@/app/components/Banner2";
-import Footer from "@/app/components/Footer";
+import Section from "../../components/Section";
+import TopProducts from "../../components/TopProducts";
+import Banner from "../../components/Banner";
+import Blogs from "../../components/Blogs";
+import Banner2 from "../../components/Banner2";
+import Footer from "../../components/Footer";
 // import Banner from '@/app/components/Banner'
 
 const Home = () => {
